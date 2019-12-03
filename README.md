@@ -1,5 +1,11 @@
 # TypeScript Guard Creator
+
+**THIS IS CURRENTLY JUST A PROOF OF CONCEPT**
+
 ## Goal
+
+Generate [type guards](https://www.typescriptlang.org/docs/handbook/advanced-types.html#type-guards-and-differentiating-types) by analysing typescript interfaces.
+
 ## Usage
 ## Todos
 
