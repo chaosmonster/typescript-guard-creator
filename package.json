@@ -1,0 +1,18 @@
+{
+  "name": "typescript-guard-creator",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "ts-node ./src/index.ts",
+    "build": "tsc -p ./tsconfig.build.json --traceResolution"
+  },
+  "author": "Martin Sonnenholzer",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.7.12",
+    "ts-node": "^8.4.1",
+    "tslib": "^1.10.0",
+    "typescript": "^3.6.3"
+  }
+}

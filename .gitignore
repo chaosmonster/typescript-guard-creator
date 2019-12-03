@@ -1,0 +1,7 @@
+/example/circle.guard.ts
+/example/point.guard.ts
+/example/rectangle.guard.ts
+/example/square.guard.ts
+
+.idea
+node_modules
